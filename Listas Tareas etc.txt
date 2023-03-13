@@ -1,0 +1,36 @@
+Product Backlog (Pila de Producto): lista de tareas No detalladas
+----------------
+1- Estructurar la página: maquetar página -> se hace con html
+2- Diseñar página: poner los estilos -> se ha con css
+3- Responsive página: que se adapte a todos los dispositivos -> bootstrap
+4- Impelmentar lógica: agregar, editar, eliminar elemenstos -> javascript
+
+Spring Backlog (pila de sprint): lista de tareas detalladas 
+------------------------
+Se dividen y detallan las tareas
+1-Estructurar página: 
+ 1a-Maquetar encabezado y acerca de: 16 hs (1°)
+ 1b-Maquertar cuerpo: 24 hs (2°)
+ 
+2-Diseñar página
+ 2a-Obtener lógos: 2 hs (3°)
+ 2b-Diseña encabazo: 8hs (4°)
+ 2c-Diseñar cuerpo: 16 hs (5°)
+ 
+
+Historia Usuarios (sistema administratrivo de becas)
+-----------------
+1- Recepción de solictud
+ a- recibo la solicitud de la becas
+ b- veo si están todos los papeles necesario: fotoc dni, datos del solicitante
+ c- ingreso la solicitud al sistema 
+ d- pongo tarea para revisión del proyecto
+ 
+ 
+2- Evaluación de solicitud
+ a- el solictante cumple con los requisitos
+ b- es correcta lo que solicita  
+ 
+ 
+ 
+

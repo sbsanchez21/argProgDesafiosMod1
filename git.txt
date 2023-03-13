@@ -1,0 +1,32 @@
+Pasos para subir a Github
+--------------------------
+
+- Descargar e instalar git
+https://git-scm.com/
+
+- Descargar e instalar Visual studio code, editor de código fuente
+https://code.visualstudio.com/
+
+- Crear un directorio o carpeta, llamado git
+- click derecho sobre git Open with code
+- crear un archivo de ejemplo
+
+- crear cuenta en github
+https://github.com/
+- crear repositorio para subir código fuente
+	new repository -> frontEndAP
+
+- Subir el código fuente creado en VSC a github
+- en VSC Menu->terminal->new termianl
+- git init 
+- git add .
+- git commit -m "first commit"
+- git remote add origin https://github.com/sbsanchez21/frontEndAP.git
+- git push -u origin master
+
+
+Actualizar las modificaciones en el repo local:
+-----------------------
+- git add .
+- git commit -m "first commit"
+- git push -u origin master
